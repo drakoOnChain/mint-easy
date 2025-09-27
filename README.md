@@ -25,7 +25,7 @@ This project is a **milestone in my blockchain learning journey**, showing:
 ## **Features**
 
 1. Mint 50 tokens at a time to your wallet.  
-2. - **Local frontend**:
+2. **Local frontend**:
   - Connect wallet (MetaMask)
   - Mint tokens with a click
   - Show wallet address and balance
