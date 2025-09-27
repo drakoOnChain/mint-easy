@@ -48,12 +48,12 @@ This project is a **milestone in my blockchain learning journey**, showing:
 ## **Setup**
 
 1. **Clone the repo:**
-```bash
-git clone YOUR_REPO_URL
+
+git clone https://github.com/drakoOnChain/mint-easy.git
 cd mint-easy
 
 2. Install dependencies
-```bash
+
 npm install
 
 3. **Set environment variables in a .env file:**
@@ -61,23 +61,19 @@ SEPOLIA_RPC_URL=https://sepolia.infura.io/v3/YOUR_INFURA_KEY
 SEPOLIA_PRIVATE_KEY=0xYOUR_PRIVATE_KEY
 
 4. Compile contracts
-```bash
 npx hardhat compile
 
 5. Run a local blockchain
-```bash
 npx hardhat node
 
 6. Deploy contract locally
 
 Open a new terminal:
-```bash
 npx hardhat run scripts/deploy.js --network localhost
 
 **Save the deployed contract address – you’ll need it for the frontend (app.js)**
 
 7. Run tests
-```bash
 npx hardhat test
 
 8. Run frontend
