@@ -16,7 +16,7 @@ This project is a **milestone in my blockchain learning journey**, showing:
 
 - **Smart Contract:** `MintEasy.sol` — ERC20 token with a simple `mint()` function.
 - **Testing:** Basic tests using **Mocha** and **Chai**.
-- **Deployment:** Script using Hardhat for local network and testnets (Sepolia, Mumbai).
+- **Deployment:** Script using Hardhat for local network and testnets (Sepolia).
 - **Frontend:** Simple HTML + JS app to connect wallet and mint tokens.
 - **Goal:** Showcase progress on GitHub from a beginner to building full-stack blockchain projects.
 
@@ -50,6 +50,7 @@ This project is a **milestone in my blockchain learning journey**, showing:
 1. **Clone the repo:**
 
 git clone https://github.com/drakoOnChain/mint-easy.git
+
 cd mint-easy
 
 2. Install dependencies
