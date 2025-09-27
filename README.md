@@ -113,10 +113,10 @@ Needed correct ABI + deployed contract address.
 Solution: Copy MintEasy.json ABI after compiling and update app.js.
 
 
-##🤝 Contributing
+## Contributing
 
 This is mainly a learning project, but feel free to fork, open issues, or suggest improvements.
 
-##License
+## License
 
 MIT
